@@ -1,0 +1,45 @@
+h1{
+ text-align: center;
+color:brown
+}
+
+.caja1{
+
+background-color: rebeccapurple;
+border: 1px solid red;
+margin: 0px 20px 0px 20px;
+}
+
+#Pollo{
+    color: blue;
+    text-align: center;
+}
+
+
+.p1{
+margin: 0;
+padding: 0;
+}
+
+.caja2{
+background-color: chartreuse;
+border: 1px solid red;
+margin: 2rem 20px 0px 20px;
+}
+
+#Res{
+    color:blue;
+    text-align: center;
+}
+
+.caja3{
+    margin: 40px;
+    background-color: lightsalmon;
+    border: 1px solid red;
+    margin: 2rem 20px 2rem 20px;
+    }
+ 
+#Sushi{
+color: blue;
+text-align: center;
+}
